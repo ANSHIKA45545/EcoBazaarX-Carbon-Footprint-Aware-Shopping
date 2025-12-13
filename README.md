@@ -6,7 +6,7 @@ This is the React frontend for EcoBazaarX, a carbon-footprint aware shopping pla
 1. Clone the repository (if not already done):
 
    
-   git clone <repository-url>
+   git clone https://github.com/ANSHIKA45545/EcoBazaarX-Carbon-Footprint-Aware-Shopping
 
 2. Navigate to the client folder:
 
